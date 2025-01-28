@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CafeMan</string>
+    <string name="sing_in_text">Sing In</string>
+    <string name="sing_up_text">Sing Up</string>
+    <string name="reset_password_text">Reset Password</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="remember_me">Remember me</string>
 </resources>
